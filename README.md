@@ -1,5 +1,6 @@
 # Fierra-data-Analysis
-
+## Disclaimer
+All data used in this project has been made publicly available with the explicit consent of the company. No proprietary or confidential information has been disclosed. 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Project Structure](#project-structure)
